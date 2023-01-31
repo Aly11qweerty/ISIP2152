@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\TourApp4\obj\Debug\TourApp4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TourApp4\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\TourApp4\obj\Debug\TourApp4_MarkupCompile.cache
